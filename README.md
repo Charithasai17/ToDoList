@@ -72,7 +72,8 @@ Select your target device (physical device or emulator) and click "OK."
 Once the app is successfully installed and running, you can interact with it on the device/emulator.
 
 ### Screenshots :
-<img src="Screenshot1.jpg" height="500px"> <img src="Screenshot2.jpg" height="500px">
+<img src="Screenshot1.jpg" height="500px"> 
+<img src="Screenshot2.jpg" height="500px">
 <img src="Screenshot5.jpg" height="500px">
 <img src="Screenshot4.jpg" height="500px">
 <img src="Screenshot3.jpg" height="500px">
