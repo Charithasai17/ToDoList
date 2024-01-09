@@ -29,6 +29,8 @@ The user interface is designed to be simple and responsive, providing an easy-to
 
 The application is built for the Android platform, making it compatible with a wide range of Android devices, both smartphones and tablets.
 
+The app also gives the alert notification when the task reach the due date.
+
 In summary, this To-Do List app is a comprehensive solution for users seeking a straightforward and feature-rich tool to organize and manage their tasks effectively, leveraging the capabilities of local storage and providing a visually pleasing user experience.
 
 ## Instructions on How to Set Up and Run the Application :
